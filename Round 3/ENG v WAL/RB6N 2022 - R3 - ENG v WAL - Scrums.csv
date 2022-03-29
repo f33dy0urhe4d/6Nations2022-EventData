@@ -1,0 +1,10 @@
+﻿team,x,y,dir,period,outcome,reason
+wales,115,5,s,1,won,penalty
+wales,115,5.5,s,1,won,penalty
+england,25,31,d,1,lost,penalty
+england,69,20,d,1,won,kept poss
+wales,88,15,s,1,won,kept poss
+wales,75,60,s,1,won,kept poss
+wales,74,43,d,2,won,penalty
+england,51,33,s,2,won,penalty
+england,54,63,s,2,won,penalty

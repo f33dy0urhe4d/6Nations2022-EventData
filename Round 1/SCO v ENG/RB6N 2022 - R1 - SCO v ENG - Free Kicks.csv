@@ -1,0 +1,9 @@
+﻿team,x,y,dir,period,outcome,reason
+england,92,33,s,1,succ,
+scotland,44,52,d,1,succ,conv
+england,98,34,s,1,succ,
+scotland,61,34,d,1,succ,
+england,28,28,d,2,succ,
+england,43,17,d,2,miss,conv
+england,40,34,d,2,succ,
+scotland,97,15,s,2,succ,

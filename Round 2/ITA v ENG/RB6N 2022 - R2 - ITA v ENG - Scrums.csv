@@ -1,0 +1,17 @@
+﻿team,x,y,dir,period,outcome,reason
+england,95,11,d,1,won,kept poss
+italy,90,21,s,1,won,kept poss
+italy,89,42,s,1,won,kept poss
+italy,32,26,s,1,won,kept poss
+italy,58,55,s,1,won,kept poss
+italy,25,26,s,1,won,penalty
+italy,70,37,d,2,lost,penalty
+italy,110,32,d,2,lost,penalty
+england,112,35,s,2,won,kept poss
+italy,45,31,d,2,won,kept poss
+england,43,36,s,2,won,kept poss
+italy,59,16,d,2,won,kept poss
+italy,39,46,d,2,won,kept poss
+italy,25,46,d,2,won,kept poss
+italy,25,46.5,d,2,lost,penalty
+england,26,45.5,s,2,won,kept poss
